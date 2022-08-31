@@ -4,3 +4,4 @@ cd used to change directories to the user home directories.
 To list in long format ls -l.
 list everything using ls -al.
 Lists in long format and in digits all hidden files.
+To create a directory use mkdir.
