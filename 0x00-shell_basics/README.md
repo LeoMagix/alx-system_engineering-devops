@@ -1,1 +1,2 @@
-pwd is used to print the absolute path of your cuurent working directory.
+pwd is used to print the absolute path of your current working directory.
+ls displays the content list of your working directory.
