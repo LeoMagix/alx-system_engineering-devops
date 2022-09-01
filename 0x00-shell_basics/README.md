@@ -9,3 +9,5 @@ Moving betty to my first directory.
 Deleting betty with rm.
 Deleted my first directory.
 going back to the previous working directory.
+Listing contents for /boot.
+
