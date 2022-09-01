@@ -12,3 +12,4 @@ going back to the previous working directory.
 Listing contents for /boot.
 script for iamfile.
 Symbolic link links.
+HTML file extension.
