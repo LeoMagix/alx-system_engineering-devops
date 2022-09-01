@@ -11,3 +11,4 @@ Deleted my first directory.
 going back to the previous working directory.
 Listing contents for /boot.
 script for iamfile.
+Symbolic link links.
