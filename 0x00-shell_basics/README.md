@@ -7,3 +7,5 @@ Lists in long format and in digits all hidden files.
 To create a directory use mkdir.
 Moving betty to my first directory.
 Deleting betty with rm.
+Deleted my first directory
+
